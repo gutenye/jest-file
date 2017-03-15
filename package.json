@@ -1,0 +1,8 @@
+{
+  "name": "jest-file",
+  "description": "file transform for jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": ["jest", "jest-transform"]
+}
